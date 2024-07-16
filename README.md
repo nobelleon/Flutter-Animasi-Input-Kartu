@@ -1,6 +1,6 @@
 # Flutter-Animasi-Input-Kartu
 
-![Animasi Input Kartu App](https://github.com/user-attachments/assets/64bdd2ff-62bf-4170-9fd5-f3d0f634b20d)
+![Animasi Input Kartu App_](https://github.com/user-attachments/assets/e6598ac7-1bb9-4cc6-a8fb-a79a2b0998e8)
 
 A new Flutter project.         
 
