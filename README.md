@@ -2,6 +2,10 @@
 
 ![Animasi Input Kartu App_](https://github.com/user-attachments/assets/e6598ac7-1bb9-4cc6-a8fb-a79a2b0998e8)
 
+---
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nobelleon) 
+
 A new Flutter project.         
 
 ## Getting Started
